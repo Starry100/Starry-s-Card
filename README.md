@@ -1,2 +1,2 @@
-# Starry-s-Website-Stuff
-A bunch of webdev stuff I've made so far
+# Starry's-Card
+A simple card-style website I made for fun as a short intro and such.
